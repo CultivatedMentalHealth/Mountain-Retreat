@@ -150,7 +150,7 @@ img {
         perspective: none !important;
         transform: none !important;
         display: none; /* Hide all pages initially */
-        margin-bottom: 20px; /* Add margin between images */
+        margin-bottom: 80px; /* Add margin between images */
     }
 
     .front, .back, .front-content, .back-content {
